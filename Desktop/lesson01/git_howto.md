@@ -26,5 +26,14 @@ git commit -m "Massage"
 ```sh
 git log
 ```
+***git log --online***
+
+Один из основных флагов команды **git log**.
+*--online* :показывает каждый коммит в одной строке, содержащий только его SHA-1 хеш и комминтарий. 
+```sh
 git log --onlline
+```
+***git chec***
+```sh
 git checkout
+```
